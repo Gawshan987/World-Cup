@@ -2,7 +2,7 @@
     color: aqua;
 }   
 .BG{
-    background-image: url("index.html/pics/messi.jpg");
+    background-image: url("pics/messi.jpg");
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
