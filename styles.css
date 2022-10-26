@@ -1,0 +1,58 @@
+.header1{
+    color: aqua;
+}   
+.BG{
+    background-image: url("index.html/pics/messi.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.IMG{
+    width: 350px;
+    height: 350px;
+}
+.H2{
+    color: red
+}
+.table1{
+    border: 1px solid white; 
+    color: royalblue;
+    width: 100%;
+}
+.TH{
+    border:1px solid white;
+}
+.TD{
+    border:1px solid white;
+}
+.P1{
+    color: blueviolet
+}
+.P2{
+    color: aqua;
+}
+.H3{
+    color: aqua;
+}
+.A{
+    background-color: aquamarine;
+}
+.B{
+    background-color: green;
+}
+.C{
+    background-color: goldenrod ;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.UL{
+    color: aquamarine;
+}
+.bar1{
+    color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+}
